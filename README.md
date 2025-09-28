@@ -14,7 +14,7 @@
 
 ## 4. 제출 규칙
 - 업로드 전 반드시 개인 폴더를 만들어야함
-- add file(create) 버튼을 누른 후 아래와 같이 파일이름을 설정 후 commit
+- add file(create) 버튼을 누른 후 아래와 같이 파일이름을 설정하여 commit
 ```
 이름/README.md
 ```
