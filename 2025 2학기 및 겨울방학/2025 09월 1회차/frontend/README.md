@@ -12,7 +12,9 @@
 
    * 자기소개 웹페이지 작성
    * **섹션 최소 3개 이상** 포함
-     예) 소개(About Me), 학력(Education), 기술/스킬(Skills), 경력(Experience), 취미(Hobbies) 등
+   ```
+   예) 소개(About Me), 학력(Education), 기술/스킬(Skills), 경력(Experience), 취미(Hobbies) 등
+   ```
 
 2. **CSS 스타일 적용**
 
