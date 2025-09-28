@@ -14,8 +14,8 @@
 
 ## 4. 제출 방식
 - 업로드 전 반드시 개인 폴더 생성
-- `Add file (Create)` 버튼 클릭
-- 아래와 같이 파일명 설정 후 commit
+- `Add file` -> 'Create new file' 버튼 클릭
+- 아래와 같이 파일명 설정 후 'Commit' 버튼 클릭
 ```
 이름/README.md
 ```
